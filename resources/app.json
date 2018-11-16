@@ -1,0 +1,12 @@
+{
+"ConnectionStrings": 
+	
+		{
+			"Server" : "localhost\\SQLEXPRESS", 
+			"Port" : "1433",
+			"Database" : "TEST",
+			"User" : "sa",
+			"Password" : "Master1234"
+		}
+	
+}
